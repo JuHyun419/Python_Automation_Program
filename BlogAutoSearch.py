@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
 
-### m-link 체험단모집링크 크롤링
+# ----- m-link 체험단 자동 검색 ----- #
 keyword = ["구로", "관악", "신림", "봉천"]
 
 # Step 1. 크롬 드라이버를 사용해서 웹 브라우저를 실행합니다.
